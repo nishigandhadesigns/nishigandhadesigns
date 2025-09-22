@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=200&section=header&text=👋%20Nishigandha%20Shende%20✨&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a8edb10-35f0-48c4-b10d-1d7068620643" />
+</p>
 
 <!-- About Me -->
 ## 👩‍🎨 About Me
