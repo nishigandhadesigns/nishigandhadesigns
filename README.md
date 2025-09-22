@@ -5,8 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=200&section=header&text=👋%20Nishigandha%20Shende%20✨&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a8edb10-35f0-48c4-b10d-1d7068620643" />
+  <img src="https://i.gifer.com/DXKg.gif" width="400"/>
 </p>
+
 
 <!-- About Me -->
 ## 👩‍🎨 About Me
@@ -20,14 +21,77 @@ Currently mastering **Illustrator, Photoshop & Figma** to design user-friendly a
 
 ## 🎨 My Creative Tools
 <p align="center">
+  <img src="https://i.gifer.com/McIo.gif" width="100"/>
+</p>
+
+<p align="center">
+  <!-- Figma -->
+  <img src="https://github.com/user-attachments/assets/6df4caba-d837-4fb1-9500-83d0e2f1ed83" alt="figma-icon" width="60"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+
+  <!-- Illustrator -->
+  <img src="https://github.com/user-attachments/assets/5624aa5e-10d9-4d5c-9d89-379d1038548a" alt="illustrator-icon" width="60"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
+  <!-- Photoshop -->
+  <img src="https://github.com/user-attachments/assets/c761fef5-d3b3-4e8a-9632-82cb2c93037a" alt="photoshop-icon" width="60"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
+  <!-- Canva -->
+  <img src="https://github.com/user-attachments/assets/909d6c6d-5812-4084-b88c-c43dc26c7a8b" alt="canva-icon" width="60"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+
+  <!-- HTML -->
+  <img src="https://github.com/user-attachments/assets/55fdf2ea-b213-4f47-a3c7-16e2772092ae" alt="html-icon" width="60"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+
+  <!-- CSS -->
+  <img src="https://github.com/user-attachments/assets/eb47a44a-ce54-4646-bd4e-ee8896759884" alt="css-icon" width="60"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+<div align="center">
+  <h2>🔥 Connect With Me</h2>
+  <hr>
+  <table cellpadding="10">
+    <tr>
+      <td align="center" width="180">
+        <a href="YOUR_LINKEDIN_URL" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          <br>
+          <sub><b>Professional Network</b></sub>
+        </a>
+      </td>
+      
+     
+      
+      
+  <td align="center" width="180">
+        <a href="YOUR_INSTAGRAM_URL" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+          <br>
+          <sub><b>Creative Journey</b></sub>
+        </a>
+      </td>
+
+   <td align="center" width="180">
+        <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="60" height="60" />
+          <br>
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+        </a>
+      </td>
+      
+   <td align="center" width="180">
+        <a href="YOUR_PORTFOLIO_URL" target="_blank">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Fire.png" alt="Fire" width="60" height="60" />
+          <br>
+          <img src="https://img.shields.io/badge/Portfolio-FF6D00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🚀 Featured Projects
