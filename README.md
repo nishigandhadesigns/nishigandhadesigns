@@ -1,5 +1,13 @@
 <!-- Stylish GitHub Profile README for Nishigandha -->
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d2f66dd-2f34-4adb-a70b-14f4e831adb3.gif" width="400"/>
+</p>
+
+
+
+
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=200&section=header&text=👋%20Nishigandha%20Shende%20✨&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
@@ -8,6 +16,11 @@
   <img src="https://i.gifer.com/DXKg.gif" width="400"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/nishigandhadesigns">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishigandha+Shende!;UI%2FUX+Designer+%26+Creative+Explorer;Design+%F0%9F%92%8E+%7C+Code+%F0%9F%92%BB+%7C+Create+%F0%9F%8E%A8" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- About Me -->
 ## 👩‍🎨 About Me
@@ -20,36 +33,51 @@ Currently mastering **Illustrator, Photoshop & Figma** to design user-friendly a
 ---
 
 ## 🎨 My Creative Tools
-<p align="center">
-  <img src="https://i.gifer.com/McIo.gif" width="100"/>
-</p>
 
-<p align="center">
-  <!-- Figma -->
-  <img src="https://github.com/user-attachments/assets/6df4caba-d837-4fb1-9500-83d0e2f1ed83" alt="figma-icon" width="60"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+<div align="center">
 
-  <!-- Illustrator -->
-  <img src="https://github.com/user-attachments/assets/5624aa5e-10d9-4d5c-9d89-379d1038548a" alt="illustrator-icon" width="60"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <!-- Design Tools -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/e92830b2-84e1-4494-ac4e-f7c5600110c2" height="60"/><br/>Figma
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/6ccc7b90-2572-4b89-9867-44359ae1272e" height="60"/><br/>Illustrator
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/0f4ab2c5-7340-47a3-80a6-53c545486017" height="60"/><br/>Photoshop
+      </td>
+      <td align="center">
+        <!-- Canva (custom icon) -->
+        <img src="https://img.icons8.com/color/452/canva.png" height="60"/><br/>Canva
+      </td>
+    </tr>
+  </table>
 
-  <!-- Photoshop -->
-  <img src="https://github.com/user-attachments/assets/c761fef5-d3b3-4e8a-9632-82cb2c93037a" alt="photoshop-icon" width="60"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <br/>
 
-  <!-- Canva -->
-  <img src="https://github.com/user-attachments/assets/909d6c6d-5812-4084-b88c-c43dc26c7a8b" alt="canva-icon" width="60"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  
 
-  <!-- HTML -->
-  <img src="https://github.com/user-attachments/assets/55fdf2ea-b213-4f47-a3c7-16e2772092ae" alt="html-icon" width="60"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-
-  <!-- CSS -->
-  <img src="https://github.com/user-attachments/assets/eb47a44a-ce54-4646-bd4e-ee8896759884" alt="css-icon" width="60"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
+  <!-- Web Tools -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f8c24210-1e3f-4a37-8e37-0f1b9bc105d1" height="60"/><br/>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" height="60"/><br/>CSS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="60"/><br/>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="60"/><br/>React
+      </td>
+    </tr>
+  </table>
+  <!-- Connect with me -->
+</div>
 <div align="center">
   <h2>🔥 Connect With Me</h2>
   <hr>
@@ -64,18 +92,9 @@ Currently mastering **Illustrator, Photoshop & Figma** to design user-friendly a
       </td>
       
      
-      
-      
-  <td align="center" width="180">
-        <a href="YOUR_INSTAGRAM_URL" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-          <br>
-          <sub><b>Creative Journey</b></sub>
-        </a>
-      </td>
 
    <td align="center" width="180">
-        <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+        <a href="mailto:shendenu@gmail.com" target="_blank">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="60" height="60" />
           <br>
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
