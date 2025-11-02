@@ -198,7 +198,7 @@ Project Goal: To develop a complete, elegant visual identity for 'Queena,' a new
 <!-- Image Preview -->
 <p align="center">
   <a href="https://www.canva.com/design/DAG3ic3vcxA/DWZd6RS0tGcIOCQnP68eLg/edit?utm_content=DAG3ic3vcxA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="https://github.com/user-attachments/assets/0e4e7b5e-6a6c-4c7a-9d89-5b8eabf6f4e2" alt="SFarm Logo Preview" width="200"/>
+
   </a>
 </p>
 <img width="1587" height="2245" alt="Black White Minimalist Monogram Jewelry Brand Logo (Posters (Portrait)) (1)" src="https://github.com/user-attachments/assets/3573d261-bf86-4655-92ad-fb88e60bcf00" />
