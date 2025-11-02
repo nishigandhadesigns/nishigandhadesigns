@@ -170,7 +170,7 @@ Currently mastering **Illustrator, Photoshop & Figma** to design user-friendly a
 </a>
 
 <!-- Download Link -->
-[📂 Download AI File](https://github.com/user-attachments/assets/f47d3ff0-a020-417b-ba9c-c53240be571d)
+[📂 Download AI File](https://github.com/nishigandhadesigns/nishigandhadesigns/blob/main/Sfarm.ai)
 
 ---
 
